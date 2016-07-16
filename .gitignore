@@ -1,0 +1,14 @@
+# python file
+.*.swp
+.*.swo
+*.pyc
+__pycache__
+.tox
+
+
+# editor and ide
+.pydevproject
+.ropeproject
+tags
+.DS_store
+.idea
